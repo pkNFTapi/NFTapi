@@ -2,7 +2,9 @@
 store ChainSafe api as encrypted credential using LIT protocol
 NFTapi API as an exchangable asset stored accessiable from a wallet signature
 
-npm install lit-js-sdk @chainsafe/files-api-js ethers
+# install dependencies
+npm install react react-dom ethers lit-js-sdk @chainsafe/files-api-js
+
 
 # metamask connect
 
