@@ -1,2 +1,2 @@
 # NFTapi
-store credentials as exchangalble asset
+store api credentials as exchangalble asset
