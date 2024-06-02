@@ -5,6 +5,8 @@ NFTapi API as an exchangable asset stored accessiable from a wallet signature
 # install dependencies
 npm install react react-dom ethers lit-js-sdk @chainsafe/files-api-js
 
+# add contract address to app.js
+
 
 # metamask connect
 
