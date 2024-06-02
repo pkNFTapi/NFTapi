@@ -1,5 +1,5 @@
 # Encrypt and Store ChainSafe API Key using Lit Protocol<br />
-# NFTapi<br />
+
 store ChainSafe api as encrypted credential using LIT protocol<br />
 NFTapi API as an exchangable asset stored accessiable from a wallet signature<br />
 
