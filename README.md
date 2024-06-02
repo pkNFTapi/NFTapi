@@ -9,6 +9,6 @@ npm install react react-dom ethers lit-js-sdk @chainsafe/files-api-js<br />
 add contract address to app.js<br />
 npm start<br />
 
-# retrieve and decrypt chainsafe API key using wallet signature
+retrieve and decrypt chainsafe API key using wallet signature
 
 
