@@ -1,4 +1,4 @@
-# NFTapi key storage
+# NFT api key storage
 Encrypt and Store ChainSafe API Key using Lit Protocol<br />
 
 store ChainSafe api as encrypted credential using LIT protocol<br />
